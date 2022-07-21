@@ -9,6 +9,3 @@ export const Header = styled.View`
 export const Title = styled.Text`
 
 `
-export const SubTitle = styled.Text`
-
-`

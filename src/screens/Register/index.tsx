@@ -13,6 +13,10 @@ export function Register() {
             <Input
             placeholder='Nome'
             />
+
+        <Input
+            placeholder='Email'
+            />
         </Container>
     )
 }
